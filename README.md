@@ -3,45 +3,59 @@
 
 ### Artificial Intelligence Student | Python | Machine Learning
 
-I'm an Artificial Intelligence student interested in building intelligent systems and solving real-world problems.
+I'm an Artificial Intelligence student passionate about learning how intelligent systems work and building practical AI solutions.
 
-- 🌱 Currently learning Python, Machine Learning, and Deep Learning.
-- 🤖 Exploring Agentic AI and Large Language Models.
-- 🎯 Goal: To become an AI Specialist.
-- 💻 I enjoy learning through practical projects.
-
-## Skills
-
-- Python
-- NumPy and Pandas
-- Matplotlib
-- Machine Learning
-- Artificial Neural Networks
-- Git and GitHub
-
-## Projects
-
-### Student Admission Predictor
-Predicting student admission using CGPA, entry test scores, and study hours.
-
-### AI Debate Court
-A multi-agent AI system with Researcher, Advocate, Fact-Checker, and Judge agents.
-
-### Student Performance Analysis
-Analyzing student data using Pandas and visualizing results with Matplotlib.
-
-## Currently Learning
-
-- Neural Networks
-- Deep Learning
-- Agentic AI
-- LLMs and RAG
-
-## Connect With Me
-
-- LinkedIn: Add your LinkedIn profile URL
-- Email: Add your professional email
+- 🌱 Currently strengthening my Python and Machine Learning skills.
+- 🤖 Exploring Artificial Neural Networks and Agentic AI.
+- 💡 Interested in building AI projects that solve real-world problems.
+- 🎯 Working towards becoming an AI Specialist.
 
 ---
-*Learning every day. Building step by step.* 🚀
 
+## 🛠️ Technical Skills
+
+- **Programming:** Python
+- **Data Analysis:** NumPy, Pandas, Matplotlib
+- **AI & Machine Learning:** Machine Learning, Artificial Neural Networks
+- **Currently Exploring:** Deep Learning, LLMs, RAG, Agentic AI
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 Student Admission Predictor
+A machine learning project focused on predicting student admission using academic and study-related features.
+
+**Technologies:** Python, NumPy, Pandas, ANN
+
+### 🤖 AI Debate Court
+An intelligent multi-agent system designed to research topics, challenge arguments, verify claims, and generate evidence-based verdicts.
+
+**Concepts:** Agentic AI, Multi-Agent Systems, LLMs, RAG
+
+### 📊 Student Performance Analysis
+A data analysis project exploring student performance and presenting insights through visualizations.
+
+**Technologies:** Python, Pandas, Matplotlib
+
+---
+
+## 📚 Currently Learning
+
+- Deep Learning and Neural Networks
+- Machine Learning Fundamentals
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Systems
+
+---
+
+## 🤝 Let's Connect
+
+- **LinkedIn:** Add your profile link when available
+- **Email:** Add your professional email
+
+---
+
+*Learning continuously. Building practical skills. Growing in AI.* 🚀
